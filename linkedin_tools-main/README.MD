@@ -45,6 +45,8 @@ B1: Nhập content và link linkedin các group vào file 'input/Content.csv'
 B2: Nhấn vào nút "Auto post LinkedIn"
 ```
 *********** lƯU Ý **********************************************************************************************
+```
 Giãn cách số lần đăng nhập ra vì LinkedIn sẽ check lần đăng nhập bất thường, có thể bị tạm thời khóa tài khoản
+```
 # Thoát
 Nhấn vào nút "Quit"
